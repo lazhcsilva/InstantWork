@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+/* ### Header ### */
+
+.superior{
+	
+	background: #1C1C1C;
+	position: absolute;
+	
+}
+
+.logotipo{
+	
+	position: relative;
+	top: 8px;
+	left: 20px;
+	width: 7%;
+	
+}
+
+.menu-navegacao ul{
+	
+	font-size: 15px;
+	
+}
+
+.menu-navegacao ul li{
+	
+	display: inline;
+	margin-left: 20px;
+	
+}
+
+.menu-navegacao{
+	
+	position: relative;
+	bottom: 0;
+	right: 0;
+	
+}
+
+/* ### Body ### */
+
+.container{
+	
+	
+	
+}
+
+/* ### Footer ### */
